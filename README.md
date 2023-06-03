@@ -8,6 +8,8 @@ https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
 
 https://webassembly.org/
 
+  - https://developer.mozilla.org/en-US/docs/WebAssembly
+
 <br>
 
 <hr>
