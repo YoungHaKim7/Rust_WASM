@@ -1,5 +1,9 @@
 # Rust_WASM
 
+# What is WASI
+
+https://blog.yoshuawuyts.com/what-is-wasi/
+
 
 # WASI | The WebAssembly System Interface
 
