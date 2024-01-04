@@ -26,7 +26,8 @@ rustup target add wasm32-wasi
 
 
 - C++로 만든거 wasm실행하기
-  - eBook https://wasmedge.org/docs/category/build-wasmedge-from-source/
+  - eBook1 https://wasmedge.org/docs/start/overview
+    - eBook https://wasmedge.org/docs/category/build-wasmedge-from-source/
 
 - C++로 만든거 https://github.com/WebAssembly/wabt
 
