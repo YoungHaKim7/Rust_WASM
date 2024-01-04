@@ -9,6 +9,8 @@
 
 eBook https://docs.wasmtime.dev/
 
+- Examples https://github.com/bytecodealliance/wasmtime/tree/main/examples
+
 - wasmtime install
   - https://github.com/bytecodealliance/wasmtime
 
