@@ -24,6 +24,13 @@ rustup target add wasm32-wasi
 
 - https://stackoverflow.com/questions/74968490/the-wasm32-wasi-target-may-not-be-installed-while-it-is-installed
 
+
+- C++로 만든거 wasm실행하기
+
+- C++로 만든거 https://github.com/WebAssembly/wabt
+
+<hr>
+
 # Rust_WASM
 
 https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
