@@ -7,6 +7,10 @@
 
 # Rust_WASM
 
+eBook https://docs.wasmtime.dev/
+
+# Rust_WASM
+
 https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
 
 # WebAssembly
