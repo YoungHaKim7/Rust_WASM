@@ -9,11 +9,15 @@
 
 eBook https://docs.wasmtime.dev/
 
+- wasmtime install
+  - https://github.com/bytecodealliance/wasmtime
 
+- build
 ```
 cargo build --target wasm32-wasi --release
 ```
 
+- install
 ```
 rustup target add wasm32-wasi
 ```
