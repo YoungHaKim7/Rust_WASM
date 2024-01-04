@@ -9,6 +9,17 @@
 
 eBook https://docs.wasmtime.dev/
 
+
+```
+cargo build --target wasm32-wasi --release
+```
+
+```
+rustup target add wasm32-wasi
+```
+
+- https://stackoverflow.com/questions/74968490/the-wasm32-wasi-target-may-not-be-installed-while-it-is-installed
+
 # Rust_WASM
 
 https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm
