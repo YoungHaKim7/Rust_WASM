@@ -5,6 +5,10 @@
 
 <hr>
 
+# Rust Game dev(godot)
+- https://godot-rust.github.io/dev/godot-rust-2023-review/
+- tutirial book https://godot-rust.github.io/book/toolchain/export-web.html
+
 # Rust_WASM
 
 eBook https://docs.wasmtime.dev/
