@@ -8,6 +8,13 @@
 ```
 
 docker run -i -t --name first-ubuntu ubuntu /bin/bash
+
+
+// start
+docker start <container name>
+
+// exec
+docker exec -it 7d9d /bin/bash
 ```
 
 https://lucas-owner.tistory.com/61
